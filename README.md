@@ -87,6 +87,5 @@ To change kernel, do this:
 #### Sources:
 
 * https://huggingface.co/docs/sagemaker/main
-* https://www.eventbox.dev/published/lesson/amazon-sagemaker-nlp-workshop/
 * https://github.com/huggingface/notebooks/tree/master/sagemaker
 
